@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZhuoZhuoCrayon&show_icons=true&theme=dracula&custom_title=Crayon%27s%20GitHub%20Stats" height="220"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuoZhuoCrayon&theme=dracula&layout=compact" height="220"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ZhuoZhuoCrayon&show_icons=true&theme=dracula&custom_title=Crayon%27s%20GitHub%20Stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuoZhuoCrayon&theme=dracula&layout=compact" height="200"/>
 </p>
