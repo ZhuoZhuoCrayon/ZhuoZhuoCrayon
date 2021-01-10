@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuoZhuoCrayon&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure class="half">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZhuoZhuoCrayon&show_icons=true&theme=dracula&custom_title=Crayon%27s%20GitHub%20Stats" width="300"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuoZhuoCrayon&theme=dracula&layout=compact" width="300"/>
-</figure>
+<p float="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZhuoZhuoCrayon&show_icons=true&theme=dracula&custom_title=Crayon%27s%20GitHub%20Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuoZhuoCrayon&theme=dracula&layout=compact"/>
+</p>
