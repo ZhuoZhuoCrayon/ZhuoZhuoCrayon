@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ZhuoZhuoCrayon's github stats](https://github-readme-stats.vercel.app/api?username=ZhuoZhuoCrayon&show_icons=true&theme=dracula&custom_title=Crayon%27s%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuoZhuoCrayon&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p float="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZhuoZhuoCrayon&show_icons=true&theme=dracula&custom_title=Crayon%27s%20GitHub%20Stats" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuoZhuoCrayon&theme=dracula&layout=compact" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ZhuoZhuoCrayon&show_icons=true&theme=dracula&custom_title=Crayon%27s%20GitHub%20Stats" height="250"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuoZhuoCrayon&theme=dracula&layout=compact" height="250"/>
 </p>
