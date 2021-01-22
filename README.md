@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![HitCount](http://hits.dwyl.com/ZhuoZhuoCrayon/ZhuoZhuoCrayon.svg)](http://hits.dwyl.com/ZhuoZhuoCrayon/ZhuoZhuoCrayon)
+[![HitCount](https://hits.b3log.org/ZhuoZhuoCrayon/ZhuoZhuoCrayon.svg)](https://github.com/ZhuoZhuoCrayon/)
 
 <!--
 **ZhuoZhuoCrayon/ZhuoZhuoCrayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
