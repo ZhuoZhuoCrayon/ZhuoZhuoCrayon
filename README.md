@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![HitCount](https://hits.b3log.org/ZhuoZhuoCrayon/ZhuoZhuoCrayon.svg)](https://github.com/ZhuoZhuoCrayon/)
 
+空谈误国，实干兴邦
+
 <!--
 **ZhuoZhuoCrayon/ZhuoZhuoCrayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
