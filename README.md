@@ -4,7 +4,10 @@
 空谈误国，实干兴邦
 
 ---
-最近的计划是干饭🍚
+🍚 最近的计划是干饭
+💤 早睡都是假的
+📖 实体书只收藏不看
+🐟 只能摸不能看
 
 <!--
 **ZhuoZhuoCrayon/ZhuoZhuoCrayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
 
 <p float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=ZhuoZhuoCrayon&show_icons=true&theme=dracula&custom_title=Crayon%27s%20GitHub%20Stats" height="150"/>
