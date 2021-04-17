@@ -3,6 +3,9 @@
 
 空谈误国，实干兴邦
 
+---
+最近的计划是干饭🍚
+
 <!--
 **ZhuoZhuoCrayon/ZhuoZhuoCrayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
