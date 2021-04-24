@@ -12,7 +12,7 @@
 
 📖 实体书只收藏不看
 
-🐟 只能摸不能看
+🐟 只能摸不能卖
 
 <!--
 **ZhuoZhuoCrayon/ZhuoZhuoCrayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
