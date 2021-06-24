@@ -4,15 +4,15 @@
 空谈误国，实干兴邦
 
 ---
-🍳 GitHub不知名美食区博主
+🍳  GitHub不知名美食区博主
 
-🍚 最近的计划是干饭（深圳探店gogogo
+🍚. 最近的计划是干饭（深圳探店gogogo
 
-💤 早睡都是假的
+💤  早睡都是假的
 
-📖 实体书只收藏不看
+📖  实体书只收藏不看
 
-🐟 只能摸不能卖
+🐟  只能摸不能卖
 
 <!--
 **ZhuoZhuoCrayon/ZhuoZhuoCrayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
